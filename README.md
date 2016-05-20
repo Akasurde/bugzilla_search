@@ -13,3 +13,5 @@ In the chrome browser, right-click the highlighted bugzilla id, before selecting
 * Screenshot
 
 ![Screenshot 1](menu.png)
+
+* [Google Chrome Web Store link](https://chrome.google.com/webstore/detail/bugzilla-search/dhejjnokkfecidedghoideaglidaonme?hl=en-GB&gl=IN)
